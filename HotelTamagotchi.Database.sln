@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "HotelTamagotchi.Database", "HotelTamagotchi.Database\HotelTamagotchi.Database.sqlproj", "{7CD11F92-296F-44E1-870B-A368CE7C3A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelTamagotchi.Model", "HotelTamagotchi.Model\HotelTamagotchi.Model.csproj", "{D9FE5936-0B7E-4C1A-8908-F2A2A0A2B601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD11F92-296F-44E1-870B-A368CE7C3A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD11F92-296F-44E1-870B-A368CE7C3A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD11F92-296F-44E1-870B-A368CE7C3A99}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7CD11F92-296F-44E1-870B-A368CE7C3A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD11F92-296F-44E1-870B-A368CE7C3A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD11F92-296F-44E1-870B-A368CE7C3A99}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D9FE5936-0B7E-4C1A-8908-F2A2A0A2B601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FE5936-0B7E-4C1A-8908-F2A2A0A2B601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FE5936-0B7E-4C1A-8908-F2A2A0A2B601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FE5936-0B7E-4C1A-8908-F2A2A0A2B601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFCE0131-5A78-4772-A4B4-82E81B39A069}
+	EndGlobalSection
+EndGlobal

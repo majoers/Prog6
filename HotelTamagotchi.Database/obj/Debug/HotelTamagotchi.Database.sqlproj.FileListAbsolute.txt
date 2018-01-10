@@ -1,0 +1,9 @@
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\bin\Debug\HotelTamagotchi.Database.dacpac
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\bin\Debug\HotelTamagotchi.Database.dll
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\bin\Debug\HotelTamagotchi.Database.pdb
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\obj\Debug\Model.xml
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\obj\Debug\refactor.xml
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\obj\Debug\postdeploy.sql
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\obj\Debug\predeploy.sql
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\obj\Debug\HotelTamagotchi.Database.dll
+C:\Users\thimo\source\repos\HotelTamagotchi.Database\HotelTamagotchi.Database\obj\Debug\HotelTamagotchi.Database.pdb
